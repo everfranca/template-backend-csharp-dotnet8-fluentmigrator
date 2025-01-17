@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationRunner", "MigrationRunner\MigrationRunner.csproj", "{109983E2-6778-448E-AC01-42EB1590C3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrations", "Migrations\Migrations.csproj", "{95EA8501-0904-4EA3-B7FE-449750FFB06F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109983E2-6778-448E-AC01-42EB1590C3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109983E2-6778-448E-AC01-42EB1590C3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109983E2-6778-448E-AC01-42EB1590C3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109983E2-6778-448E-AC01-42EB1590C3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EA8501-0904-4EA3-B7FE-449750FFB06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EA8501-0904-4EA3-B7FE-449750FFB06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EA8501-0904-4EA3-B7FE-449750FFB06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EA8501-0904-4EA3-B7FE-449750FFB06F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
